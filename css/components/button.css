@@ -1,0 +1,21 @@
+.btn-blue{
+	background-color: orange;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.btn-blue:hover{
+	color: orange;
+	background-color: black;
+
+}
+
+#apply-section{
+	text-decoration: none;
+	margin: 50px 0px;
+}
